@@ -1,0 +1,206 @@
+[
+    {
+        "Place": "Angul",
+        "Intensity": 26,
+        "Latitude": "20.8382426",
+        "Longitude": "85.0973949"
+    },
+    {
+        "Place": "Balasore",
+        "Intensity": 42,
+        "Latitude": "21.5006421",
+        "Longitude": "86.919884"
+    },
+    {
+        "Place": "Baragarh",
+        "Intensity": 33,
+        "Latitude": "21.3335004",
+        "Longitude": "83.6190492"
+    },
+    {
+        "Place": "Berhampur",
+        "Intensity": 60,
+        "Latitude": "21.49308515",
+        "Longitude": "86.63272982626935"
+    },
+    {
+        "Place": "Bhadrak",
+        "Intensity": 37,
+        "Latitude": "21.0633288",
+        "Longitude": "86.5053731"
+    },
+    {
+        "Place": "Bolangir",
+        "Intensity": 20,
+        "Latitude": "20.7502257",
+        "Longitude": "83.2499464"
+    },
+    {
+        "Place": "Boudh",
+        "Intensity": 9,
+        "Latitude": "20.6407463",
+        "Longitude": "83.99697042585481"
+    },
+    {
+        "Place": "Cuttack",
+        "Intensity": 33,
+        "Latitude": "20.4686",
+        "Longitude": "85.8792"
+    },
+    {
+        "Place": "Bhubaneswar",
+        "Intensity": 49,
+        "Latitude": "20.2602964",
+        "Longitude": "85.8394521"
+    },
+    {
+        "Place": "Cuttack",
+        "Intensity": 29,
+        "Latitude": "20.4686",
+        "Longitude": "85.8792"
+    },
+    {
+        "Place": "Deogarh",
+        "Intensity": 21,
+        "Latitude": "24.4898318",
+        "Longitude": "86.6990182"
+    },
+    {
+        "Place": "Dhenkanal",
+        "Intensity": 37,
+        "Latitude": "20.835149350000002",
+        "Longitude": "85.60223048169827"
+    },
+    {
+        "Place": "Gajapati",
+        "Intensity": 27,
+        "Latitude": "19.1966026",
+        "Longitude": "84.19306336169709"
+    },
+    {
+        "Place": "Ganjam",
+        "Intensity": 96,
+        "Latitude": "19.3883898",
+        "Longitude": "85.0496786"
+    },
+    {
+        "Place": "Jagatsinghpur",
+        "Intensity": 30,
+        "Latitude": "20.2593872",
+        "Longitude": "86.1660878"
+    },
+    {
+        "Place": "Jajpur",
+        "Intensity": 64,
+        "Latitude": "20.8522696",
+        "Longitude": "86.3385714"
+    },
+    {
+        "Place": "Jharsuguda",
+        "Intensity": 26,
+        "Latitude": "21.87705125",
+        "Longitude": "84.00905063735019"
+    },
+    {
+        "Place": "Kalahandi",
+        "Intensity": 101,
+        "Latitude": "19.82657565",
+        "Longitude": "83.04087019477804"
+    },
+    {
+        "Place": "Kandhamal",
+        "Intensity": 40,
+        "Latitude": "20.13069385",
+        "Longitude": "84.07904760590154"
+    },
+    {
+        "Place": "Kendrapara",
+        "Intensity": 44,
+        "Latitude": "20.50040085",
+        "Longitude": "86.43170622796478"
+    },
+    {
+        "Place": "Keonjhar",
+        "Intensity": 59,
+        "Latitude": "21.5",
+        "Longitude": "85.5"
+    },
+    {
+        "Place": "Khurda",
+        "Intensity": 16,
+        "Latitude": "25.114202849999998",
+        "Longitude": "79.53370963000481"
+    },
+    {
+        "Place": "Koraput",
+        "Intensity": 121,
+        "Latitude": "18.7232023",
+        "Longitude": "82.61005964425227"
+    },
+    {
+        "Place": "Malkangiri",
+        "Intensity": 42,
+        "Latitude": "18.35835435",
+        "Longitude": "81.89823748747048"
+    },
+    {
+        "Place": "Mayurbhanj",
+        "Intensity": 120,
+        "Latitude": "21.915633800000002",
+        "Longitude": "86.39618239522102"
+    },
+    {
+        "Place": "Nayagarh",
+        "Intensity": 42,
+        "Latitude": "20.1160666",
+        "Longitude": "85.11195643843573"
+    },
+    {
+        "Place": "Nabarangpur",
+        "Intensity": 14,
+        "Latitude": "19.2392083",
+        "Longitude": "82.5475064"
+    },
+    {
+        "Place": "Nuapada",
+        "Intensity": 3,
+        "Latitude": "20.769099750000002",
+        "Longitude": "82.51862845874122"
+    },
+    {
+        "Place": "Puri",
+        "Intensity": 41,
+        "Latitude": "19.8076083",
+        "Longitude": "85.8252538"
+    },
+    {
+        "Place": "Rayagada",
+        "Intensity": 28,
+        "Latitude": "18.965998550000002",
+        "Longitude": "84.19287455014992"
+    },
+    {
+        "Place": "Rourkela",
+        "Intensity": 68,
+        "Latitude": "22.253999399999998",
+        "Longitude": "84.8577520139704"
+    },
+    {
+        "Place": "Sambalpur",
+        "Intensity": 24,
+        "Latitude": "21.4",
+        "Longitude": "83.883333"
+    },
+    {
+        "Place": "Sonepur",
+        "Intensity": 11,
+        "Latitude": "25.7094769",
+        "Longitude": "85.13552177142104"
+    },
+    {
+        "Place": "Sundargarh",
+        "Intensity": 49,
+        "Latitude": "22.13327195",
+        "Longitude": "83.97965279931319"
+    }
+]
